@@ -1,3 +1,3 @@
-# RPG Starter Files
+# RPG 
 
-Starter files needed for Hero Game RPG exercises
+* Maalik - Paxton RPG Exercise
